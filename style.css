@@ -2,3 +2,7 @@ p{
     color: aqua;
     background-color: navy;
 }
+h1{
+    font-weight: bold;
+    background-color: firebrick;
+}
