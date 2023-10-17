@@ -30,9 +30,13 @@ label{
 }
 .header{
     /* background-color: lightblue; */
-   height: 150px;
+   /* height: 150px; */
  background-color: antiquewhite;
    
+ background-image: url("sample.jpg");
+ background-size: cover;
+ background-position: contain;
+ height: 300px;
    }
 .header h3{
     text-align: center;
